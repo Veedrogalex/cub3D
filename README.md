@@ -1,1 +1,2 @@
-ПОМЕНЯЛ В СТРДАБЕ ДОБАВИЛ free(s1)там может произойти хуйня
+launch: make && ./cub3D map.cub
+or another *.cub file
