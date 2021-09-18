@@ -1,0 +1,14 @@
+R 640 480
+
+NO ./north_texture
+F 220,100,0
+SO ./south_texture
+C 255,30,8
+WE ./west_texture
+EA ./east_texture
+S ./sprite_texture
+
+1111
+1021
+10N1
+1111
